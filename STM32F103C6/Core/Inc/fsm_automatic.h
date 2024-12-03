@@ -35,7 +35,7 @@ extern uint8_t buffer_flag;
 
 void cmd_parser_fsm();
 
-void uart_comms_fsm();
+void uart_coms_fsm();
 
 
 #endif /* INC_FSM_AUTOMATIC_H_ */
